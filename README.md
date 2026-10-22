@@ -9,7 +9,7 @@
 
 ### 🙋 About Me
 
-- 🎓 B.Tech CSE @ **Institute of Engineering and Management, Kolkata** (2027)
+- 🎓 MCA @ **Institute of Engineering and Management, Kolkata** (2027)
 - 💻 Passionate about **Data Structures, Algorithms, Development & Open Source**
 - 🚀 Actively looking for **fresher SDE roles**
 - 🏆 GitHub Achievements: **Pull Shark** & **YOLO**
