@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Siddhartha 👋</h1>
-<h3 align="center">CSE Undergrad • Open Source Contributor • Aspiring SDE</h3>
+<h3 align="center">MCA Undergrad • Open Source Contributor • Aspiring SDE</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vMultiline=false&width=435&lines=Solving+problems+one+line+at+a+time;Open+Source+%7C+DSA+%7C+Open+to+opportunities" alt="Typing SVG" />
